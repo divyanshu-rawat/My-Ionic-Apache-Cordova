@@ -1,4 +1,4 @@
-#### my-ionic-Apache-Cordova
+#### my-ionic-Apache-Cordova-app
 
 ##
 
